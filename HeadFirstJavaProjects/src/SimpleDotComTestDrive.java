@@ -15,7 +15,7 @@ public class SimpleDotComTestDrive {
         String guessNumver = "2";
 
         dot.checkYouself(guessNumver);
-    
+
     }
 
 }
