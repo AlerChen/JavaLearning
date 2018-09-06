@@ -58,9 +58,9 @@ public class DotComBust {
             if (result.equals("hit")) {
                 break;
             }
-            if (result.equals("kill") {
+            if (result.equals("kill")) {
                 dotComsList.remove(dotComToTest);
-                break;;
+                break;
 
             }
 
